@@ -2,21 +2,23 @@
 First DevOps Repo
 PART 1
 Create REPO, readMe initialised, and code cloneing demo
-<img width="953" alt="Screenshot 2025-04-17 102058-plus-new-repo" src="https://github.com/user-attachments/assets/b3ae4ac5-6472-4e8d-8cdf-9b4b72989dde" />
-<img width="956" alt="Screenshot 2025-04-17 102334-create-repo" src="https://github.com/user-attachments/assets/728716b5-a9f1-45b6-8334-2168283f1f3b" />
-<img width="951" alt="Screenshot 2025-04-17 102419-reasdme-initialsed" src="https://github.com/user-attachments/assets/4c2baf45-bccc-4394-9b51-39db49849d48" />
-<img width="950" alt="Screenshot 2025-04-17 102510-readme-create-repo" src="https://github.com/user-attachments/assets/7214b561-7746-42b2-be59-3213e43d7124" />
-<img width="959" alt="Screenshot 2025-04-17 120837-code-clone" src="https://github.com/user-attachments/assets/8dc0726a-5174-4c69-b0d3-9e9c83cc3ccf" />
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/eea2d161-a253-4057-a7f6-7ff67303bebb" />
+<img width="877" alt="image" src="https://github.com/user-attachments/assets/de5ff1a4-08ec-46a8-b9c6-6d32b3abd4d2" />
+<img width="869" alt="image" src="https://github.com/user-attachments/assets/7193cc9c-7100-4893-8c36-729dfdc828b2" />
 
 Terminal demo
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/0da38612-85fe-4faf-b03f-82e8322c92ff" />
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/2f767a24-fae2-4109-924c-2b0ef8e90455" />
+<img width="824" alt="image" src="https://github.com/user-attachments/assets/50ee06c3-3005-408d-b254-eb13f8003b09" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/a801320b-287d-418d-89ef-9ece786aa159" />
+
 
 PART 2
 Tom's work
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/e8473742-c3a6-443c-b472-258cc379cf2c" />
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/78f45b84-9a49-48f6-85f0-6f5ad824f9ef" />
+<img width="821" alt="image" src="https://github.com/user-attachments/assets/d80f8062-cba8-4fb8-9408-e8f8eae97f94" />
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/0191bf94-2938-4918-badd-14cfd358d3ea" />
+
+
 
 Jerry's work
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/a1d3464d-bba6-464b-8ef0-77252b0ab7e2" />
+<img width="816" alt="image" src="https://github.com/user-attachments/assets/11b85b50-576d-4f32-9a57-000d92ca23ac" />
+
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/1b9dfa37-775b-4bc7-829f-d6b09c0f8354" />
