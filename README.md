@@ -1,4 +1,7 @@
 # ai-startup-website
+Git download
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/4c2ac242-0ffb-4a33-92fc-10dd7ef23fc2" />
+
 First DevOps Repo
 PART 1
 Create REPO, readMe initialised, and code cloneing demo
