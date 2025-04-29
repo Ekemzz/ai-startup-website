@@ -1,6 +1,10 @@
 # ai-startup-website
 Git download
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/4c2ac242-0ffb-4a33-92fc-10dd7ef23fc2" />
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/07835925-206c-41aa-abde-7bd2b2672f73" />
+
+<img width="828" alt="image" src="https://github.com/user-attachments/assets/724c4363-d292-4f3e-bf6f-557a5c367dc7" />
+<img width="961" alt="image" src="https://github.com/user-attachments/assets/d6dd7783-f79a-44f9-9372-caef01b23049" />
 
 First DevOps Repo
 PART 1
@@ -17,11 +21,14 @@ Terminal demo
 PART 2
 Tom's work
 <img width="821" alt="image" src="https://github.com/user-attachments/assets/d80f8062-cba8-4fb8-9408-e8f8eae97f94" />
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/2a5d8625-d1c8-4eb2-ba2d-98dbac56dddd" />
+
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/0191bf94-2938-4918-badd-14cfd358d3ea" />
 
 
 
 Jerry's work
 <img width="816" alt="image" src="https://github.com/user-attachments/assets/11b85b50-576d-4f32-9a57-000d92ca23ac" />
+<img width="838" alt="image" src="https://github.com/user-attachments/assets/f9a25b94-9012-472b-85da-71340a8ddf14" />
 
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/1b9dfa37-775b-4bc7-829f-d6b09c0f8354" />
