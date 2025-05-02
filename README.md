@@ -33,3 +33,22 @@ Jerry's work
 <img width="838" alt="image" src="https://github.com/user-attachments/assets/f9a25b94-9012-472b-85da-71340a8ddf14" />
 
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/1b9dfa37-775b-4bc7-829f-d6b09c0f8354" />
+
+PART 3
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/5682988f-87fe-42cf-9174-44cd579fbc57" />
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/0cd7ec73-5954-419e-9f8e-5e31658f5e6c" />
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/6e4d5c94-eae3-4d98-966a-9a1f375bdfb4" />
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/687c791b-6174-4345-837a-170a5192b44a" />
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/2c79b7a6-2e11-4e8b-a636-dce38e788c23" />
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/4f32e83a-ec7a-4597-bc4b-dd1474b4da47" />
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/59221472-83c6-46f0-861d-16aad740dc19" />
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/a181ae78-eea2-4ad0-8da7-c567da8b13b1" />
+
+<img width="930" alt="image" src="https://github.com/user-attachments/assets/b581e658-9e06-4fa8-b6cb-f6ab2326c814" />
+<img width="844" alt="image" src="https://github.com/user-attachments/assets/fbdc1043-af7b-448d-869f-549821d90683" />
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/dbe60183-bea6-4a6c-a357-6654cb7f16e0" />
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/071cd1f4-3d10-41ed-98b1-af39f26c10c6" />
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/009eeed4-5b7b-4b7d-b7ea-b09b229ea2b5" />
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/32547bb2-fa01-47de-92ae-63efcc1d8b24" />
+
+
